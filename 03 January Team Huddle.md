@@ -1,6 +1,6 @@
-Team Huddle: Inside Sales/Applications
+# Team Huddle: Inside Sales/Applications
 
-Attendees:
+## Attendees:
 Hassan (Team Lead)
 Cheryl (inside Sales for east coast)
 David (Inside Sales for West coast)
@@ -10,7 +10,7 @@ Reza (Solentim west coast FAS)
 Theresa (Reagents inside sales for Solentim Products)
 Ben (Solentim east coast FAS)
 
-Meeting notes:
+## Meeting notes:
 - Team roles and introductions performed.
 - Paul to manage Key Account Managers (KAMs)
 - USA was the leading market for sales for both Advanced Instruments and Solentim.
