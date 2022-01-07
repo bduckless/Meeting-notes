@@ -1,0 +1,29 @@
+ICON Review Meeting Notes Tuesday 11/30/2021
+- Ben H. to circulate FAQ Document produced by Genmab relating to the IT infrastructure requirements of the ICON/Studius
+- Ben H. to remove the Microscope and Price line from ICON quotes and Price Documents.
+- Paul needs to adjust quotes to 23andMe/ Wheeler labs to reflect recent changes to Microscope line items in instrument quotes.
+- Moving forward it's critical to export the screen shots of ICON titer results for Presenting purposes.
+- Ben H./ Emma hosted UCB on site for VIPS/CM/ICON demonstration.  Key Take Aways:
+  - Tough to demonstrate full capabilities of the STUDIUS software without the analyze node.
+  - Standard samples prepared contained Phenol Red (Results were skewed)
+  - The customer had a tough time understanding the concepts of the FP assay (Ensure the concept is fully understood during the qualification calls)
+  - UCB had to utilize their own IgG1 molecule to produce the standard curve.
+  - UCB really liked the VIPS instrument!
+- It's important for us to understand and convey the effects of Media in the assay system.
+- George stressed the importance to produce proper Cell Metric confluence results prior to importing the data to Studius.
+- The Apps and Sales team need to better align on the proper elements that are to be included in the evaluation.
+- Jake brought up the concern for culture with media containing phenol red the titer results will change dramatically from day 0 to day 14.
+- Need to convey to customers the importance of not culturing their cells with Phenol red.
+- Ben H. stressed the importance of ensuring the Cell viability assessment practices are either used as a stand alone or in conjunction with established counting methods (need to finalize the comparison pre-evaluation.)
+- Emma will be locking down the 1 day demo scripts.
+- 20% of our current customers have both the VIPS and Cell Metric.
+-Ian is concerned with why we went off script (using media with Phenol Red)
+- Need to establish a confluence threshold for ICON evaluations-> Ian suggested at least 30-40%
+- Important to check the specs of the instrument once its shipped to back to Norwood.
+- Is it possible to set up onsite evaluations at Norwood?
+- ICON will not be heavily featured at SLAS.
+- Would it be possible to have a live link form SLAS booth to the lab?
+- Emma and Camilla to perform VIPS to studius end to end evaluation with Filming.
+- A third party may need to perform filimg and editing.
+- Webinars are needed to push interest in Q1.
+- no orders or opportunities in November.
